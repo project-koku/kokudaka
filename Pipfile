@@ -10,12 +10,14 @@ name = "pypi"
 flask = "==1.0.2"
 gunicorn = "==19.8.1"
 
+
 [dev-packages]
 
-pylint = "==1.9.1"
+pylint = "==2.0.1"
 coverage = "==4.5.1"
 codecov = "==2.0.15"
 tox = "==3.0.0"
+
 
 [requires]
 
