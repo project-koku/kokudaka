@@ -232,11 +232,10 @@
         },
         "tox": {
             "hashes": [
-                "sha256:96efa09710a3daeeb845561ebbe1497641d9cef2ee0aea30db6969058b2bda2f",
-                "sha256:9ee7de958a43806402a38c0d2aa07fa8553f4d2c20a15b140e9f771c2afeade0"
+                "sha256:dc3ca9c56c544234e1cfc5ac0d40e6b91213a1a3cec78cccd48a41900a93e0e8",
+                "sha256:0cc11ff7a2c8d3f988bea9f760e14aae02957d4324cb09ef55b802d5cd4562c9"
             ],
-            "index": "pypi",
-            "version": "==3.0.0"
+            "version": "==3.5.1"
         },
         "urllib3": {
             "hashes": [
