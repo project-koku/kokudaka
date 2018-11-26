@@ -13,7 +13,7 @@ gunicorn = "==19.9.0"
 
 [dev-packages]
 
-pylint = "==1.9.1"
+pylint = "==2.2.0"
 coverage = "==4.5.1"
 codecov = "==2.0.15"
 tox = "==3.0.0"
